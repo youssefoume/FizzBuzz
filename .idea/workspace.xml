@@ -4,23 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d0eb35d9-710f-4440-831a-7b2265c6aa72" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/Displayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/Generateur.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/InvalidInputException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/Transformer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/fizzbuzz/Validator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/DisplayerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/GenerateurTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/TransformerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/fizzbuzz/ValidatorTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="d0eb35d9-710f-4440-831a-7b2265c6aa72" name="Changes" comment="FizzBuzz" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,8 +94,30 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654027775088</updated>
-      <workItem from="1654027776659" duration="308000" />
+      <workItem from="1654027776659" duration="410000" />
     </task>
+    <task id="LOCAL-00001" summary="FizzBuzz">
+      <created>1654028130664</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1654028130664</updated>
+    </task>
+    <task id="LOCAL-00002" summary="FizzBuzz">
+      <created>1654028149870</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654028149870</updated>
+    </task>
+    <task id="LOCAL-00003" summary="FizzBuzz">
+      <created>1654028164677</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1654028164677</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +133,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="FizzBuzz" />
+    <option name="LAST_COMMIT_MESSAGE" value="FizzBuzz" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
